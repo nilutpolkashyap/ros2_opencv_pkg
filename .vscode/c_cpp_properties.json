@@ -1,0 +1,32 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/nilutpolk/ros2_ws/install/ros2_cpp_python_pkg/include/**",
+        "/home/nilutpolk/ros2_ws/install/ros2_aruco_interfaces/include/**",
+        "/home/nilutpolk/ros2_ws/install/my_microros_custom_interfaces/include/**",
+        "/home/nilutpolk/ros2_ws/install/my_custom_message/include/**",
+        "/home/nilutpolk/ros2_ws/install/my_custom_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/nilutpolk/ros2_ws/src/cpp_srvcli/include/**",
+        "/home/nilutpolk/ros2_ws/src/ign_sim_pkg/include/**",
+        "/home/nilutpolk/ros2_ws/src/multi_thread_ros2/include/**",
+        "/home/nilutpolk/ros2_ws/src/my_custom_message/include/**",
+        "/home/nilutpolk/ros2_ws/src/my_microros_custom_interfaces/include/**",
+        "/home/nilutpolk/ros2_ws/src/ros2_cpp_python_pkg/include/**",
+        "/home/nilutpolk/ros2_ws/src/ros2_opencv_pkg/ros2_opencv_cpp/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
